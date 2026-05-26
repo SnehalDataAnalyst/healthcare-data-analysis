@@ -62,12 +62,14 @@ Evaluated doctor rankings, hospital billing performance, and provider efficiency
 
 💡 Key Insights
 
-🦴 Arthritis is the most common condition with 3,346 patients
-💨 Asthma generates the highest total billing at $86M
-🛏️ Average length of stay is consistent across all conditions (~15.5 days) suggesting standardized care protocols
-⚠️ Abnormal test results are slightly higher (34.5%) than Normal (33.3%), worth monitoring
-🏦 All insurance providers show nearly equal avg billing (~$25–26K) no major payer-driven pricing difference
-🔍 "Atena" found as a misspelling of "Aetna" in the raw data caught and flagged during cleaning
+## 💡 Key Insights
+
+- 🦴 **Arthritis** is the most common condition with **3,346 patients**.
+- 💨 **Asthma** generates the highest total billing at **$86M**.
+- 🛏️ Average length of stay is consistent across conditions (**15.5 days**), suggesting standardized care protocols.
+- ⚠️ **Abnormal test results** are slightly higher (**34.5%**) than Normal (**33.3%**), worth monitoring.
+- 🏦 Insurance providers show nearly equal average billing (**$25–26K**), indicating no major payer-driven pricing differences.
+- 🔍 **"Atena"** was identified as a misspelling of **"Aetna"** and corrected during data cleaning.
 
 
 🚀 How to Use
@@ -85,7 +87,9 @@ If prompted to refresh data, point it to your local CSV file
 Use the slicers (Year, Insurance Provider, Medical Condition) to explore
 
 
-👩‍💻 Author
-Snehal
-Aspiring Data Analyst · MySQL · Power BI · Excel · SQL
+## 👩‍💻 Author
+
+**Snehal Kokate**  
+Aspiring Data Analyst  
+MySQL • SQL • Power BI • Excel
 
