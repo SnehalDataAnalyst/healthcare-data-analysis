@@ -1,4 +1,4 @@
-# Healthcare-data-analysis
+# 🏥 Healthcare Data Analysis
 
 📌 Project Summary
 This project performs a full end-to-end analysis of a healthcare dataset containing 19,766 patient records spanning 2019–2024. The goal was to uncover patterns in patient demographics, hospital financials, clinical outcomes, and provider performance.
