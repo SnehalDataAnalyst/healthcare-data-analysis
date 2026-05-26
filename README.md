@@ -22,27 +22,29 @@ Power BI — a 4-page interactive dashboard translating those findings into busi
   
 - Source: [https://drive.google.com/drive/folders/1GOtJdvbJ7c_TPvtvVgCKLF9upjcm-I6N?usp=drive_link]
 
-SQL Analysis — What Was Done
+## 🧹 SQL Analysis — What Was Done
 
-Data Cleaning:
-Several preprocessing steps were performed to improve data quality before analysis:
+### Data Cleaning
 
-- Standardized inconsistent text formatting
-- Converted date columns into proper date format
-- Checked for missing billing values
-- Identified duplicate patient records
-- Corrected data quality issues such as **“Atena” → “Aetna”**
+Before analysis, several preprocessing steps were performed to ensure data accuracy, consistency, and reliability:
 
-Analysis Performed:
+- Standardized inconsistent text formatting across patient, doctor, and hospital names  
+- Converted date columns into proper **DATE** format for time-based analysis  
+- Checked for missing or null billing values to maintain data completeness  
+- Identified duplicate patient records for improved data integrity  
+- Detected and corrected data quality issues, including standardizing **“Atena”** to **“Aetna”**
+- 
+## 🔍 SQL Analysis Performed
+
 The analysis focused on:
 
-Total patients, gender distribution, and average age
--Patient count by medical condition and admission type
--Total revenue and average billing per insurance provider
--Top 5 doctors by patient count
--Average length of stay per medical condition
--Patient billing rankings using RANK() window function
--Running total of billing over time using SUM() OVER()
+- Total patients, gender distribution, and average age  
+- Patient count by medical condition and admission type  
+- Total revenue and average billing per insurance provider  
+- Top 5 doctors by patient count  
+- Average length of stay per medical condition  
+- Patient billing rankings using **RANK() Window Function**  
+- Running total of billing over time using **SUM() OVER()**
 
 ## 📊 Power BI Dashboard
 
