@@ -73,16 +73,20 @@ Evaluated doctor rankings, hospital billing performance, and provider efficiency
 🚀 How to Use
 
 SQL File:
+
 Open MySQL Workbench (or any MySQL client)
 Import the healthcare dataset into a database named projects
 Run healthcare_analysis.sql — sections are clearly labelled, run them in order
 
 Power BI File:
+
 Open Healthcare_Analysis_Project.pbix in Power BI Desktop
 If prompted to refresh data, point it to your local CSV file
 Use the slicers (Year, Insurance Provider, Medical Condition) to explore
 
 👩‍💻 Author
+
 Snehal
+
 Aspiring Data Analyst · MySQL · Power BI · Excel · SQL
 
