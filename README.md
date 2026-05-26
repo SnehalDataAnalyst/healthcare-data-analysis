@@ -22,7 +22,7 @@ Power BI — a 4-page interactive dashboard translating those findings into busi
   
 - Source: [https://drive.google.com/drive/folders/1GOtJdvbJ7c_TPvtvVgCKLF9upjcm-I6N?usp=drive_link]
 
-##SQL Analysis — What Was Done
+SQL Analysis — What Was Done
 
 Data Cleaning:
 Several preprocessing steps were performed to improve data quality before analysis:
