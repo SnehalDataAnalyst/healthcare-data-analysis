@@ -36,7 +36,7 @@ Several preprocessing steps were performed to improve data quality before analys
 Analysis Performed:
 The analysis focused on:
 
--Total patients, gender distribution, and average age
+Total patients, gender distribution, and average age
 -Patient count by medical condition and admission type
 -Total revenue and average billing per insurance provider
 -Top 5 doctors by patient count
