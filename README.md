@@ -84,7 +84,8 @@ Open Healthcare_Analysis_Project.pbix in Power BI Desktop
 If prompted to refresh data, point it to your local CSV file
 Use the slicers (Year, Insurance Provider, Medical Condition) to explore
 
-👩‍💻 Author
+
+##👩‍💻 Author
 
 Snehal
 Aspiring Data Analyst · MySQL · Power BI · Excel · SQL
