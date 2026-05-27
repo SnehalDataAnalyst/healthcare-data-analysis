@@ -22,6 +22,20 @@ Power BI — a 4-page interactive dashboard translating those findings into busi
   
 - Source: [https://drive.google.com/drive/folders/1GOtJdvbJ7c_TPvtvVgCKLF9upjcm-I6N?usp=drive_link]
 
+## 📊 Dashboard Preview
+
+### Patient Overview
+<img width="4150" height="2400" alt="Healthcare Analysis Project_page-0001" src="https://github.com/user-attachments/assets/a0596ba4-a2a7-4121-a967-3207b7717980" />
+
+### Financial Analysis
+<img width="4150" height="2400" alt="Healthcare Analysis Project_page-0002" src="https://github.com/user-attachments/assets/45a9e53a-84f1-44bf-a313-beed7e9b2331" />
+
+### Clinical Insights
+<img width="4150" height="2400" alt="Healthcare Analysis Project_page-0003" src="https://github.com/user-attachments/assets/574ed2df-be45-490c-aeb5-59b411ffac2d" />
+
+### Doctor & Hospital Performance
+<img width="4150" height="2400" alt="Healthcare Analysis Project_page-0004" src="https://github.com/user-attachments/assets/d30bf9ba-ec6d-4086-9004-08eedfb1a37b" />
+
 ## 🧹 SQL Analysis — What Was Done
 
 ### Data Cleaning
